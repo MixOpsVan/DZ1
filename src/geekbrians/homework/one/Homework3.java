@@ -3,6 +3,10 @@ package geekbrians.homework.one;
 public class Homework3 {
 
 /*
+    2.Создать переменные типов: byte, short, int, long, float, double, char, boolean;
+ */
+
+/*
     3.
 */
 
