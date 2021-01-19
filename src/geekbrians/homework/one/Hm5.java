@@ -1,4 +1,4 @@
-package HM5;
+package geekbrians.homework.one;
 
 public class Hm5 {
 
