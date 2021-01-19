@@ -1,6 +1,6 @@
 package geekbrians.homework.one;
 
-public class HomeWork5 {
+public class Hm5 {
 
     public static class colleague {
 
