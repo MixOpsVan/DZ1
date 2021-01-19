@@ -1,9 +1,8 @@
-package geekbrians.homework.one;
+package HM5;
 
 public class Hm5 {
 
     public static class colleague {
-
         String name;
         String position;
         String email;
