@@ -5,7 +5,7 @@ public class Bobik extends Animal{
     private int maxLenght;
 
     Bobik(){
-        maxLenght = Math.random() > 0.5 ? 400 : 600;
+        maxLenght = Math.random() > 0.5 ? 200 : 600;
     }
     int getMaxLenght(){
         return maxLenght;
