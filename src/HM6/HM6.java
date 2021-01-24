@@ -8,12 +8,12 @@ public class HM6 {
         Bobik dog = new Bobik();
         Animal cat = new Cat();
 
-        dog.run(150);
-        cat.run(5000);
-        dog.jump(10);
-        cat.jump(11);
+        dog.run(500);
+        cat.run(200);
+        dog.jump(0.2);
+        cat.jump(2);
 
-        dog.swim(3);
+        dog.swim(5);
 
     }
 }
