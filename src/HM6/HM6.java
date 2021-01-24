@@ -13,7 +13,7 @@ public class HM6 {
         dog.jump(0.2);
         cat.jump(2);
 
-        dog.swim(5);
+        dog.swim(6);
 
     }
 }
